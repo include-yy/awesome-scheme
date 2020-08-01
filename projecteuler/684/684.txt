@@ -1,0 +1,5 @@
+Inverse Digit Sum
+Define s(n) to be the smallest number that has a digit sum of n. For example s(10) = 19.
+Let S(k) = Σ(n = 1, k)s(n). You are given S(20) = 1074.
+Further let fi be the Fibonacci sequence defined by f0 = 0, f1 = 1 and fi = fi-2 + fi-1 for all i >= 2.
+Find Σ(i = 2, 90)S(fi). Give your answer modulo 1 000 000 007.

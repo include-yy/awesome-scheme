@@ -1,0 +1,6 @@
+Coin sums
+In England the currency is made up of pound, ¡ê, and pence, p, and there are eight coins in general circulation:
+1p, 2p, 5p, 10p, 20p, 50p, ¡ê1 (100p) and ¡ê2 (200p).
+It is possible to make ¡ê2 in the following way:
+1¡Á¡ê1 + 1¡Á50p + 2¡Á20p + 1¡Á5p + 1¡Á2p + 3¡Á1p
+How many different ways can ¡ê2 be made using any number of coins?
